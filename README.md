@@ -3,6 +3,8 @@
 These are my completed & graded homeworks, written in Python using
 Jupyter Notebooks, for the Fall 2017 version of Eero Simoncelli's course
 [Mathematical Tools for Cognitive and Neural Science](http://www.cns.nyu.edu/~eero/math-tools/).
+This repository was made public on Feb. 1st 2018, well beyond the
+termination of the course.
 
 # Grades
 
