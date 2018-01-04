@@ -1,3 +1,9 @@
+# Overview
+
+These are the completed & graded homeworks, written in Python using
+Jupyter Notebooks, for the Fall 2017 version of Eero Simoncelli's course
+[Mathematical Tools for Cognitive and Neural Science](http://www.cns.nyu.edu/~eero/math-tools/).
+
 # Grades
 
 | HW #      | Points Received   | Points Possible   | Grade     |
