@@ -1,6 +1,7 @@
 # Grades
 
 | HW #      | Points Received   | Points Possible   | Grade     |
+|-----------|-------------------|-------------------|-----------|
 | 1         | 30                | 30                | 100%      |
 | 2         | 25                | 26                | xxx%      |
 | 3         | xx                | xx                | xxx%      |
